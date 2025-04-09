@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Rajkumar Mahajan (a.k.a. Raj.Dev)
+# 👋 Hello! I'm Rajkumar Mahajan
 
 Welcome to my GitHub – where frontend meets football! ⚛️⚽
 
